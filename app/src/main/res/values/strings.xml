@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">My Helmet</string>
+    <string name="nWelcome">My Helmet</string>
+    <string name="tNama">Nama</string>
+    <string name="tPass">Password</string>
+    <string name="tEmail">Email</string>
+    <string name="tRepas">Re-Password</string>
+    <string name="twelcom">Hai,</string>
+    <string name="nhasil">Hasil</string>
+    <string name="ntask">Task</string>
+    <string name="nRepas">Konfirmasi Password</string>
+    <string name="akun">Belum punya akun?</string>
+    <string name="mSub">Submit</string>
+    <string name="logout">Logout</string>
+    <string name="logo">logo2</string>
+    <string name="tTime">Time Task</string>
+    <string name="nTime">Masukkan Lama Task</string>
+    <string name="nNama">Masukkan Nama</string>
+    <string name="nPass">Masukkan Password</string>
+    <string name="nSign">SIGN-IN</string>
+    <string name="nRegister">Daftar</string>
+    <string name="nlog">Logo</string>
+    <string name="nEmail">Masukkan Email</string>
+    <string name="nwel">Welcome My Helmet</string>
+    <string name="nagv">AGV</string>
+    <string name="norder">Pre-Order </string>
+    <string name="norderarai">Pre-Order Arai</string>
+    <string name="norderagv">Pre-Order AGV</string>
+    <string name="nordershoei">Pre-Order SHOEI</string>
+    <string name="ndetail">History</string>
+
+
+</resources>
